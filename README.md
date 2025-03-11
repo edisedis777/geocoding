@@ -53,8 +53,13 @@ The script generates CSV files containing:
 - Errors are logged, and failed attempts are retried with a delay.
 
 ## License
-MIT License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Contributions
 Feel free to open issues or submit pull requests for improvements.
+
+<div align="right">
+
+[Back To Top ⬆️](#Geocoding)
+</div>
 
