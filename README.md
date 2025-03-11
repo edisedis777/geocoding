@@ -1,4 +1,9 @@
-# Geocoding Script
+# Geocoding
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+![ArcGIS](https://img.shields.io/badge/ArcGIS-Mapping%20&%20GIS-0079C1?logo=esri&logoColor=white)
+![Komoot](https://img.shields.io/badge/Komoot-Outdoor%20Navigation-6AA84F?logo=komoot&logoColor=white)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 This Python script reads addresses from a CSV file, processes them using geocoding services (ArcGIS and Komoot), and saves the results with latitude and longitude coordinates.
 
