@@ -17,6 +17,7 @@ This Python script reads addresses from a CSV file, processes them using geocodi
 ## Requirements
 Ensure you have the following installed:
 - Python 3.x
+
 - Required Python libraries:
   sh
   pip install pandas requests geocoder
@@ -36,7 +37,7 @@ Modify the following parameters in the script to suit your needs:
 1. Prepare your CSV file with columns for address, city, and optionally postal codes.
 2. Run the script:
    sh
-   python geocode_script.py
+   python geo_calc.py
    
 3. Results will be saved in the `output_test_coord` directory.
 
