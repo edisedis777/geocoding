@@ -3,7 +3,6 @@
 ![ArcGIS](https://img.shields.io/badge/ArcGIS-Mapping%20&%20GIS-0079C1?logo=esri&logoColor=white)
 ![Komoot](https://img.shields.io/badge/Komoot-Outdoor%20Navigation-6AA84F?logo=komoot&logoColor=white)
 [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](#)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 This Python script reads addresses from a CSV file, processes them using geocoding services (ArcGIS and Komoot), and saves the results with latitude and longitude coordinates.
 
@@ -52,11 +51,11 @@ The script generates CSV files containing:
 - If an address cannot be geocoded, it is marked as "not geocoded".
 - Errors are logged, and failed attempts are retried with a delay.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contributions
-Feel free to open issues or submit pull requests for improvements.
+Contributions are welcome! 
+
+## License
+Distributed under the GNU Affero General Public License v3.0 License. See `LICENSE` for more information.
 
 <div align="right">
 
